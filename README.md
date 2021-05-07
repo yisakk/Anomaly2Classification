@@ -1,3 +1,3 @@
 # Anomaly2Classification
 
-![diagram](diagram.png)
+![diagram](diagram.jpg)
